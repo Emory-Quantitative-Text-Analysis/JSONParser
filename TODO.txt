@@ -1,0 +1,3 @@
+2 Seperate flies:
+	loger version for dynamic
+	shorter version for SVO (filtered by social actor)w
